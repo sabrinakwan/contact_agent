@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = ContactAgent::VERSION
   spec.authors       = ["Franklin Webber"]
   spec.email         = ["franklin.webber@gmail.com"]
-  spec.description   = %q{Able to interact the Contact Manager API}
-  spec.summary       = %q{Client for Contact Manager}
+  spec.description   = %q{Able to interact the Contact Manager API - Sabrina}
+  spec.summary       = %q{Client for Contact Manager - Sabrina}
   spec.homepage      = ""
   spec.license       = "MIT"
 
